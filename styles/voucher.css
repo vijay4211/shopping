@@ -1,0 +1,10 @@
+
+
+#voucher_list{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid red;
+    width: 100%;
+}
+
+
